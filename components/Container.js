@@ -12,6 +12,7 @@ function Container({ children, keywords }) {
       <div className="navbar">
         <A href={`/`} text={"Home"} />
         <A href={`/users`} text={"Users"} />
+        <A href={`/posts`} text={"Posts"} />
       </div>
       <>{children}</>
       <style jsx>
