@@ -18,7 +18,7 @@ function Container({ children, keywords }) {
       <style jsx>
         {`
           .navbar {
-            background: orange;
+            background: orange; 
             padding: 15px;
           }
         `}

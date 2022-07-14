@@ -4,6 +4,7 @@
 /.pnp
 /.next
 .pnp.js
+/out
 
 
 # testing
